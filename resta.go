@@ -7,5 +7,6 @@ func main() {
 
 	n3 = n1 - n2
 	fmt.Println(n3)
+	fmt.Println("El resultado de la resta es", n3)
 
 }
